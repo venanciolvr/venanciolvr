@@ -9,8 +9,6 @@ Sou movido por desafios que unem **tecnologia, inovação e pessoas**. Acredito 
 Vamos trocar uma ideia?  
 📫 Me encontra por aqui ou no [LinkedIn](https://www.linkedin.com/in/venancio-oliveira/)
 
-![Venâncio's GitHub stats](https://github-readme-stats.vercel.app/api?username=venanciolvr&show_icons=true&theme=swift)
-
 <!--
 **venanciolvr/venanciolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
