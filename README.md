@@ -2,7 +2,7 @@
 
 Sou movido por desafios que unem **tecnologia, inovação e pessoas**. Acredito que boas ideias só ganham força quando bem executadas — e é aí que entram minhas habilidades em **gestão ágil, liderança colaborativa e visão sistêmica**.
 
-💡 Curioso nato, busco constantemente entender como as coisas funcionam — e como podem funcionar **melhor**.
+💡 Curioso nato, busco constantemente entender como as coisas funcionam, e como podem funcionar **melhor**.
 
 🧠 _"Tecnologia não é só sobre o que podemos criar, mas sobre o que escolhemos transformar."_
 
